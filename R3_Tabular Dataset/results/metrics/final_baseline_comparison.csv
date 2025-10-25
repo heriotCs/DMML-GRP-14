@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,RMSE
+Logistic Regression,0.247,0.248,0.24,0.238,1.858
+Decision Tree,0.247,0.277,0.254,0.222,1.937
+kNN,0.223,0.214,0.216,0.213,2.057

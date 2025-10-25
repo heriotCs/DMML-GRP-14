@@ -1,0 +1,9 @@
+Baseline Training and Evaluation Experiments
+
+Apply at least three (3) machine learning algorithms to build predictive models, including
+Decision Trees, Naïve Bayes, Linear Models, Perceptron, and k-Nearest Neighbours.
+Note your task can be either classification and/or regression, depending on the topic
+and dataset(s) you choose. Evaluate and compare the models in terms of appropriate
+metrics for the respective tasks, e.g., accuracy, precision, recall, F-1, error measures
+(like RMSE) and justify their choice. In the case of Decision Trees discuss their practical
+applications in the context of the selected datasets/topic (D2-D3).

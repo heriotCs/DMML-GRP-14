@@ -1,0 +1,20 @@
+Classification Report - Decision Tree
+============================================================
+
+                       precision    recall  f1-score   support
+
+Potato___Early_blight     0.6179    0.5767    0.5966       300
+ Potato___Late_blight     0.2377    0.2900    0.2613       300
+     Potato___healthy     0.5700    0.5700    0.5700       400
+Tomato_Bacterial_spot     0.5696    0.4992    0.5321       639
+  Tomato_Early_blight     0.2238    0.2567    0.2391       300
+   Tomato_Late_blight     0.3978    0.3805    0.3889       573
+       Tomato_healthy     0.6098    0.6276    0.6186       478
+
+             accuracy                         0.4689      2990
+            macro avg     0.4609    0.4572    0.4581      2990
+         weighted avg     0.4800    0.4689    0.4735      2990
+
+
+Model Parameters:
+{'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_depth': 30, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 5, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'random_state': 42, 'splitter': 'best'}

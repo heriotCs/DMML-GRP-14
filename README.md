@@ -8,7 +8,7 @@
 This project focuses on predicting indoor plant health and growth using both **tabular** (sensor-based) and **image** (visual) datasets.  
 We apply a variety of machine learning and deep learning techniques to analyze, cluster, and model plant health indicators.
 
-The project explores the full ML pipeline — from **EDA and preprocessing**, to **clustering**, **baseline modeling**, and **neural networks**.
+The project explores the full ML pipeline - from **EDA and preprocessing**, to **clustering**, **baseline modeling**, and **neural networks**.
 
 ---
 
@@ -61,7 +61,7 @@ Contains older versions of datasets and notebooks retained for reference.
 |------|---------------------|
 | **Muhammad Saad** | R2 - Clusteing & Preprocessing of Tabular Datatset, R3 - Baseline Models for Tabular Dataset|
 | **Sharaf** | |
-| **Sufiyan** | |
+| **Sufyaan** | |
 | **Hassan** | |
 | **Abdullah** | |
 

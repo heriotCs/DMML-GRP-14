@@ -1,0 +1,8 @@
+Class,Precision,Recall,F1-Score,Support
+Potato___Early_blight,0.7202,0.8067,0.7610,300
+Potato___Late_blight,0.4688,0.6500,0.5447,300
+Potato___healthy,0.9300,0.5975,0.7275,400
+Tomato_Bacterial_spot,0.7758,0.7527,0.7641,639
+Tomato_Early_blight,0.3776,0.4933,0.4277,300
+Tomato_Late_blight,0.7169,0.4154,0.5260,573
+Tomato_healthy,0.6499,0.8661,0.7426,478

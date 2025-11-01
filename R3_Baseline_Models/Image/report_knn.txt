@@ -1,0 +1,20 @@
+Classification Report - KNN
+============================================================
+
+                       precision    recall  f1-score   support
+
+Potato___Early_blight     0.4286    0.0200    0.0382       300
+ Potato___Late_blight     0.5455    0.0200    0.0386       300
+     Potato___healthy     0.9643    0.2700    0.4219       400
+Tomato_Bacterial_spot     0.3636    0.1002    0.1571       639
+  Tomato_Early_blight     0.6667    0.0200    0.0388       300
+   Tomato_Late_blight     0.8176    0.2112    0.3356       573
+       Tomato_healthy     0.1897    1.0000    0.3189       478
+
+             accuracy                         0.2639      2990
+            macro avg     0.5680    0.2345    0.1927      2990
+         weighted avg     0.5583    0.2639    0.2169      2990
+
+
+Model Parameters:
+{'algorithm': 'auto', 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'n_jobs': -1, 'n_neighbors': 7, 'p': 2, 'weights': 'distance'}

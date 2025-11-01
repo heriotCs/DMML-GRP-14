@@ -71,3 +71,11 @@ Contains older versions of datasets and notebooks retained for reference.
 1. Clone the repository:
    ```bash
    git clone https://github.com/heriotCs/DMML-GRP-14.git
+2. Navigate to the Project Directory
+   ```bash
+   cd DMML-GRP-14
+3.	Open the notebooks in Jupyter or VS Code and run them in order:
+	•	R2_EDA_Preprocessing
+	•	R3_Clustering
+	•	R4_Baseline_Models
+	•	R4_Neural_Networks

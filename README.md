@@ -75,7 +75,7 @@ Contains older versions of datasets and notebooks retained for reference.
    ```bash
    cd DMML-GRP-14
 3.	Open the notebooks in Jupyter or VS Code and run them in order:
-	•	R2_EDA_Preprocessing
-	•	R3_Clustering
-	•	R4_Baseline_Models
-	•	R4_Neural_Networks
+• R2_EDA_Preprocessing
+• R2_Clustering
+• R3_Baseline_Models
+• R4_Neural_Networks

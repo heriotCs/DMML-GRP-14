@@ -60,10 +60,10 @@ Contains older versions of datasets and notebooks retained for reference.
 | Name | Role / Contribution |
 |------|---------------------|
 | **Muhammad Saad** | R2 - Clusteing & Preprocessing of Tabular Datatset, R3 - Baseline Models for Tabular Dataset|
-| **Sharaf** | |
-| **Sufyaan** | |
-| **Hassan** | |
-| **Abdullah** | |
+| **Sharaf** | R2 Data Analysis and Exploration (EDA) on Image & Tabular Dataset |
+| **Sufyaan** | R4 Implemented a custom CNN on Image Dataset & Documentation |
+| **Hassan** | R2 Preprocessing of Image dataset & R4 Implementing a CNN on Image Dataset |
+| **Abdullah** | R3 Implementing Baseline Models on Tabular Dataset |
 
 ---
 
